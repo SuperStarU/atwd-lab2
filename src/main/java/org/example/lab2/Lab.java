@@ -1,4 +1,4 @@
-package org.example;
+package org.example.lab2;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import java.time.Duration;
